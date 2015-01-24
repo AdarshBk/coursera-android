@@ -17,6 +17,7 @@ public class AlarmNotificationReceiver extends BroadcastReceiver {
 	private static final int MY_NOTIFICATION_ID = 1;
 	private static final String TAG = "AlarmNotificationReceiver";
 
+	// Extra comments to show Git changes
 	// Notification Text Elements
 	private final CharSequence tickerText = "Are You Playing Angry Birds Again!";
 	private final CharSequence contentTitle = "A Kind Reminder";
